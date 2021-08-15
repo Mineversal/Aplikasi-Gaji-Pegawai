@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TugasRPL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pdfbox-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
